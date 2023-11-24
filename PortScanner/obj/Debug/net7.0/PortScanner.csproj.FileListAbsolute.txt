@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\bin\Debug\net7.0\PortScanner.exe
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\bin\Debug\net7.0\PortScanner.deps.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\bin\Debug\net7.0\PortScanner.runtimeconfig.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\bin\Debug\net7.0\PortScanner.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\bin\Debug\net7.0\PortScanner.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\PortScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\PortScanner.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\PortScanner.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\PortScanner.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\PortScanner.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\refint\PortScanner.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\PortScanner.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\PortScanner.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\PortScanner\PortScanner\obj\Debug\net7.0\ref\PortScanner.dll
